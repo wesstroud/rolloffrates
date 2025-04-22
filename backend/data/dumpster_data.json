@@ -1,0 +1,2211 @@
+{
+  "companies": [
+    {
+      "id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "name": "Waste Management",
+      "website": "https://www.wm.com",
+      "logo_url": null,
+      "description": "Waste Management offers dumpster rental services for residential and commercial needs.",
+      "phone": "1588992447"
+    },
+    {
+      "id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "name": "Budget Dumpster",
+      "website": "https://www.budgetdumpster.com",
+      "logo_url": "https://www.budgetdumpster.com/images/budget-dumpster-logo-hi-res-638x96.png",
+      "description": "Budget Dumpster offers affordable dumpster rental services nationwide.",
+      "phone": "2857142857"
+    }
+  ],
+  "service_areas": [
+    {
+      "id": "86e731ac-e3bc-4b47-ba25-87dc59388b53",
+      "city": "New York",
+      "state": "NY",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "2eedaf25-24a9-4f19-b97a-ae360f45c09d",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "f87fbf60-836d-4f3a-aaa3-93c757b78a67",
+      "city": "Chicago",
+      "state": "IL",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "8a9091cd-7055-4f71-8df3-8b9d8d5448ee",
+      "city": "Houston",
+      "state": "TX",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "0e30e1d7-7259-4d0e-a536-102739e966ac",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "a240bb16-2ac3-4d6b-8bba-363103609667",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "687ed82d-73fc-40d9-959e-08c715a89449",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "10cfd829-393e-4ec8-a2e0-2a2d4727665f",
+      "city": "San Diego",
+      "state": "CA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "318cd6c4-45e8-4561-91a2-72b99737b15f",
+      "city": "Dallas",
+      "state": "TX",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "a1dad90e-55d2-4916-82d7-2b56d742f927",
+      "city": "San Jose",
+      "state": "CA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "b9ffb82b-a1cc-4ff8-a01c-f8d6ffe83db5",
+      "city": "Austin",
+      "state": "TX",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "7c9d8d57-6bf7-4106-b86e-b79c4318417a",
+      "city": "Jacksonville",
+      "state": "FL",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "e416b001-f2b0-4cee-b1e5-beb976fe2dd3",
+      "city": "Fort Worth",
+      "state": "TX",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "9c32b6b7-a102-43ad-a9a0-f997905aba62",
+      "city": "Columbus",
+      "state": "OH",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "f4e7f4dc-2c68-4078-a965-c6586ad07c89",
+      "city": "Charlotte",
+      "state": "NC",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "d0cfc0d1-b271-4a82-83e8-9aa71b47cd64",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "43e4db11-0873-402e-85bc-8861adbe90d7",
+      "city": "Indianapolis",
+      "state": "IN",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "eca1de48-9a48-49e6-a7de-17a533a43d27",
+      "city": "Seattle",
+      "state": "WA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "3192c4ba-7670-4834-872c-a365d2d64978",
+      "city": "Denver",
+      "state": "CO",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "7a070e5c-b207-4e12-bfec-66d6d9d86b29",
+      "city": "Boston",
+      "state": "MA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "4f293207-4611-482e-94aa-0a3803aa76f2",
+      "city": "Atlanta",
+      "state": "GA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "908428fe-0f45-4065-966f-aa9e74c1dd5f",
+      "city": "Baltimore",
+      "state": "MD",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "c81b0766-2d71-4655-a732-c07af1847d50",
+      "city": "Cleveland",
+      "state": "OH",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "a9eb0917-4d30-4c32-9ec4-b6bd582a575c",
+      "city": "Detroit",
+      "state": "MI",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "aa7b099c-47b9-4761-8cd1-5a09673a26c5",
+      "city": "Nashville",
+      "state": "TN",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "d99213d6-18ef-4344-ad2d-4aeb20d28c84",
+      "city": "Miami",
+      "state": "FL",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "efb2064d-c633-4eda-ad65-926ed2734bcd",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "9b93d500-d5f7-4339-b637-8c881dd2eb57",
+      "city": "Portland",
+      "state": "OR",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "d2953b1e-1331-46bb-87f9-55106c86faab",
+      "city": "St. Louis",
+      "state": "MO",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "486f67a2-9da3-4860-b295-0a0de97e0432",
+      "city": "Tampa",
+      "state": "FL",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "e5cb72f2-4381-4768-98a8-c2024e05942c",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "a971fc63-005a-4555-ba08-9ba3a4eeb382",
+      "city": "Cincinnati",
+      "state": "OH",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "aee95599-3c96-4886-b6b0-2767833c37df",
+      "city": "Kansas City",
+      "state": "MO",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "6b8b964f-8853-4ffc-b2c0-6002f1dfd44a",
+      "city": "Las Vegas",
+      "state": "NV",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "7d202d97-59de-43d7-90e5-bf8c19789f97",
+      "city": "Orlando",
+      "state": "FL",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "bd5d90df-0cfb-42b8-a335-db50fc8dd152",
+      "city": "Sacramento",
+      "state": "CA",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "ac05d031-7ca0-49c4-84ce-929b60eb92d2",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "9a64594e-d370-4466-b119-6bf498abd55d",
+      "city": "San Antonio",
+      "state": "TX",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "c74bb1f4-b5d5-4542-a164-3942009f183c",
+      "city": "Milwaukee",
+      "state": "WI",
+      "zip_code": null,
+      "county": null
+    },
+    {
+      "id": "35dd9bdf-19e2-4353-93af-4d33f41f409e",
+      "city": "Raleigh",
+      "state": "NC",
+      "zip_code": null,
+      "county": null
+    }
+  ],
+  "dumpster_sizes": [
+    {
+      "id": "4eaf58e5-58ad-4d4b-8e76-7d6e88a360c7",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_yards": 10,
+      "description": "10 yard dumpster ideal for small home projects and cleanouts",
+      "weight_limit_lbs": 2000,
+      "suitable_for": [
+        "Small home projects",
+        "Garage cleanouts"
+      ]
+    },
+    {
+      "id": "bb36e036-627f-490f-b932-4c344d60e50b",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_yards": 20,
+      "description": "20 yard dumpster perfect for medium-sized renovation projects",
+      "weight_limit_lbs": 4000,
+      "suitable_for": [
+        "Home renovations",
+        "Medium construction"
+      ]
+    },
+    {
+      "id": "15945a4b-f8b0-4b23-a255-7bc7f1d6a4df",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_yards": 30,
+      "description": "30 yard dumpster for large construction or commercial projects",
+      "weight_limit_lbs": 6000,
+      "suitable_for": [
+        "Large construction",
+        "Commercial projects"
+      ]
+    },
+    {
+      "id": "1e63b8bc-847a-4d2f-94e9-3668f9777b23",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_yards": 40,
+      "description": "40 yard dumpster for major construction or industrial use",
+      "weight_limit_lbs": 8000,
+      "suitable_for": [
+        "Major construction",
+        "Industrial use"
+      ]
+    },
+    {
+      "id": "7098e6bb-a083-472b-abfb-d95ffb1aa6bc",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_yards": 10,
+      "description": "10 yard dumpster for small projects and cleanouts",
+      "weight_limit_lbs": 2500,
+      "suitable_for": [
+        "Small home projects",
+        "Garage cleanouts",
+        "Small remodeling projects"
+      ]
+    },
+    {
+      "id": "e06cdd6e-cd5a-46e8-aa14-7f0e07040f7b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_yards": 15,
+      "description": "15 yard dumpster for medium residential projects",
+      "weight_limit_lbs": 3750,
+      "suitable_for": [
+        "Medium home projects",
+        "Basement cleanouts",
+        "Small landscaping"
+      ]
+    },
+    {
+      "id": "dc895ae4-6b83-461a-9749-81f8979914c7",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_yards": 20,
+      "description": "20 yard dumpster for larger home renovation projects",
+      "weight_limit_lbs": 5000,
+      "suitable_for": [
+        "Home renovations",
+        "Medium construction",
+        "Roofing projects"
+      ]
+    },
+    {
+      "id": "3dfdfbd3-5ea5-4b1a-b763-12ddcd40771b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_yards": 30,
+      "description": "30 yard dumpster for major construction or renovation",
+      "weight_limit_lbs": 7500,
+      "suitable_for": [
+        "Large construction",
+        "Commercial projects",
+        "Major home renovations"
+      ]
+    },
+    {
+      "id": "a98f94af-346e-4455-a26c-c7eda29163cb",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_yards": 40,
+      "description": "40 yard dumpster for large-scale projects",
+      "weight_limit_lbs": 10000,
+      "suitable_for": [
+        "Large-scale demolition",
+        "Commercial cleanouts",
+        "Industrial projects"
+      ]
+    }
+  ],
+  "prices": [
+    {
+      "id": "384c1093-2753-4348-a325-7a937a024a47",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "efef972a-baaf-4bb0-9c36-64857f4c27a4",
+      "base_price": 390.0,
+      "additional_day_price": 58.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "42e780bc-b3c6-42d5-89f4-939d68afe918",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "efef972a-baaf-4bb0-9c36-64857f4c27a4",
+      "base_price": 520.0,
+      "additional_day_price": 78.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "ba096642-d2da-425c-aab5-90a397788efa",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "efef972a-baaf-4bb0-9c36-64857f4c27a4",
+      "base_price": 650.0,
+      "additional_day_price": 97.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "f6a42983-6f89-499b-b1f4-55812609cc85",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "efef972a-baaf-4bb0-9c36-64857f4c27a4",
+      "base_price": 780.0,
+      "additional_day_price": 117.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "1fe8a6f3-3e79-426c-b7bf-df5fb7492e56",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "27381575-f867-4e77-86c7-77918adb7966",
+      "base_price": 390.0,
+      "additional_day_price": 58.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "2162dd24-35a5-4d49-bddc-a21caddb6f92",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "27381575-f867-4e77-86c7-77918adb7966",
+      "base_price": 520.0,
+      "additional_day_price": 78.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "767c1dab-06e7-4f9d-ba6c-e71af00c3620",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "27381575-f867-4e77-86c7-77918adb7966",
+      "base_price": 650.0,
+      "additional_day_price": 97.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "50277b9d-d5a6-4df7-95aa-0518697cd20d",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "27381575-f867-4e77-86c7-77918adb7966",
+      "base_price": 780.0,
+      "additional_day_price": 117.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "83a6d644-b423-40b8-9888-be2ba675cce9",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "027369d1-3ec3-4e29-b682-e5575eb93b76",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "fc9ca93d-60f8-4c81-88d5-fda38c78e8ca",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "027369d1-3ec3-4e29-b682-e5575eb93b76",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "885a9db4-0327-450f-9400-78150f58d6fe",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "027369d1-3ec3-4e29-b682-e5575eb93b76",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "157e8b7b-0363-49d1-88ed-c26200d45091",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "027369d1-3ec3-4e29-b682-e5575eb93b76",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "ad9008cb-f34a-4eb3-89bb-90df7fda919b",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "bed07d4e-88fa-4706-b214-7f546d2563bd",
+      "base_price": 270.0,
+      "additional_day_price": 40.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "0b8cc488-61ba-4f92-bf1a-78ff82452a4a",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "bed07d4e-88fa-4706-b214-7f546d2563bd",
+      "base_price": 360.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "cd41c25d-3ceb-4c53-a03d-6befca16fc5e",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "bed07d4e-88fa-4706-b214-7f546d2563bd",
+      "base_price": 450.0,
+      "additional_day_price": 67.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "92010652-0cd8-4750-9bbf-d5e557a214c2",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "bed07d4e-88fa-4706-b214-7f546d2563bd",
+      "base_price": 540.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "e72bf553-8066-468e-9e3a-987095087f62",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "59902ef4-1363-493e-8f03-82ab7c586b6f",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "00adb970-033c-4e6c-9a4b-8a068963f29d",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "59902ef4-1363-493e-8f03-82ab7c586b6f",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "6facd221-be88-406f-bc81-ef28125af1d2",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "59902ef4-1363-493e-8f03-82ab7c586b6f",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "d6d933bb-7468-4839-9d99-0c49702b517c",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "59902ef4-1363-493e-8f03-82ab7c586b6f",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "1c4aea3a-7d06-41e8-ade9-7245b94b31c6",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "ebc5276e-aa49-424b-9559-710ea376854b",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "358e7f29-d832-4b40-be01-743ae0ee4dc0",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "ebc5276e-aa49-424b-9559-710ea376854b",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "7313d208-cd98-4e97-8126-283007ff6e29",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "ebc5276e-aa49-424b-9559-710ea376854b",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "43d4ce3f-1fb0-44d5-8d90-9539069f278d",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "ebc5276e-aa49-424b-9559-710ea376854b",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "0475daff-b609-4dba-ad20-95da4a2bd1be",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "9ba7f6a8-e39f-477e-8047-43a89b649a3a",
+      "base_price": 270.0,
+      "additional_day_price": 40.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "7f889ec0-ff67-471e-8efe-b4b1e8d19243",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "9ba7f6a8-e39f-477e-8047-43a89b649a3a",
+      "base_price": 360.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "266b75cd-898b-4384-9df6-21ff866590c0",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "9ba7f6a8-e39f-477e-8047-43a89b649a3a",
+      "base_price": 450.0,
+      "additional_day_price": 67.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "1ee9fe2f-82ff-40a2-aa2d-44d9969a0193",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "9ba7f6a8-e39f-477e-8047-43a89b649a3a",
+      "base_price": 540.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "3b88a99e-de46-4736-bdfa-09caf68b4727",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "8bba9fa8-e6cc-459d-9157-69e3eccbb5ce",
+      "base_price": 390.0,
+      "additional_day_price": 58.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "7b485a36-6f78-44b0-bfa2-3d626c355e9a",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "8bba9fa8-e6cc-459d-9157-69e3eccbb5ce",
+      "base_price": 520.0,
+      "additional_day_price": 78.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "f1501379-adba-4d64-a7d4-6f85f2004f79",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "8bba9fa8-e6cc-459d-9157-69e3eccbb5ce",
+      "base_price": 650.0,
+      "additional_day_price": 97.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "5a08293c-6b0f-441f-9094-4b6d12503823",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "8bba9fa8-e6cc-459d-9157-69e3eccbb5ce",
+      "base_price": 780.0,
+      "additional_day_price": 117.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "f3580949-57cc-41d0-b4d1-dddd87478b36",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "10c94709-16b3-4d30-b51c-0103d36fe49a",
+      "base_price": 270.0,
+      "additional_day_price": 40.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "6d397213-918b-4744-9449-270a01fa053a",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "10c94709-16b3-4d30-b51c-0103d36fe49a",
+      "base_price": 360.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "acaf24a4-99e7-4230-91f5-723e3c3ee677",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "10c94709-16b3-4d30-b51c-0103d36fe49a",
+      "base_price": 450.0,
+      "additional_day_price": 67.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "880a515d-d7fd-44cd-9859-d1d863389416",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "10c94709-16b3-4d30-b51c-0103d36fe49a",
+      "base_price": 540.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "632bc984-9436-453e-b13a-cf5b29538827",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "f52a6e3b-7534-4566-99fa-e8774ce7ed61",
+      "base_price": 390.0,
+      "additional_day_price": 58.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "aeaa4325-7b5c-4ab4-b222-35b6c74b6153",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "f52a6e3b-7534-4566-99fa-e8774ce7ed61",
+      "base_price": 520.0,
+      "additional_day_price": 78.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "89941052-9b3e-415b-ab14-055d56c82a68",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "f52a6e3b-7534-4566-99fa-e8774ce7ed61",
+      "base_price": 650.0,
+      "additional_day_price": 97.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "1ed9d8ce-5e3f-4f48-bec4-b47c6b0f7547",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "f52a6e3b-7534-4566-99fa-e8774ce7ed61",
+      "base_price": 780.0,
+      "additional_day_price": 117.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "3689a0f2-a5bf-49a2-a292-3b1e6328bf9e",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "314d8bd7-bfdb-4a01-9c73-0d16afcc45f3",
+      "base_price": 270.0,
+      "additional_day_price": 40.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "ba760808-f552-4d8f-bba3-56fdbb813727",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "314d8bd7-bfdb-4a01-9c73-0d16afcc45f3",
+      "base_price": 360.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "952cb604-4bda-4d81-831f-92d7ab049d2a",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "314d8bd7-bfdb-4a01-9c73-0d16afcc45f3",
+      "base_price": 450.0,
+      "additional_day_price": 67.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "dbfaf220-6ac5-47dd-a28d-6bc000dc4b16",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "314d8bd7-bfdb-4a01-9c73-0d16afcc45f3",
+      "base_price": 540.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "e4d81d8a-05b7-44dc-8838-3d765ad91dd3",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "aab79252-df1f-4c6f-9347-d83bc9ad29ec",
+      "base_price": 270.0,
+      "additional_day_price": 40.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "d427e828-66a2-4bf9-ad18-a494ef82b669",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "aab79252-df1f-4c6f-9347-d83bc9ad29ec",
+      "base_price": 360.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "f587451b-98bc-48fb-835a-172412163184",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "aab79252-df1f-4c6f-9347-d83bc9ad29ec",
+      "base_price": 450.0,
+      "additional_day_price": 67.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "b05d553f-c348-4977-8d40-d8147c4af628",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "aab79252-df1f-4c6f-9347-d83bc9ad29ec",
+      "base_price": 540.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "b1220f0f-4d25-4985-9f89-78ff852c6f8f",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "2ebc434a-cbd4-49f3-9713-60e031407418",
+      "base_price": 270.0,
+      "additional_day_price": 40.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "c953982a-6c89-4e9a-8160-cea47f52e003",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "2ebc434a-cbd4-49f3-9713-60e031407418",
+      "base_price": 360.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "1adcb718-9525-4f91-8816-00cd109dcc2f",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "2ebc434a-cbd4-49f3-9713-60e031407418",
+      "base_price": 450.0,
+      "additional_day_price": 67.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "90ca88f7-b14d-4840-9c0e-cf0cea0c8b9e",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "2ebc434a-cbd4-49f3-9713-60e031407418",
+      "base_price": 540.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "8f1f683f-6ce1-4c79-be13-b7b455ea47da",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "e6c0e10f-fec1-4438-95e1-cc285024ac06",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "381a1850-8b7f-4a90-b874-1b60e24f0fc4",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "e6c0e10f-fec1-4438-95e1-cc285024ac06",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "056fb9cb-7342-4cf1-9479-3fff557cb80d",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "e6c0e10f-fec1-4438-95e1-cc285024ac06",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "4bb6c575-53b4-4117-8258-c6e6ab161f4a",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "e6c0e10f-fec1-4438-95e1-cc285024ac06",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "9fe6da62-bb09-4cec-9f5f-81d05143eaf4",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "96d16983-50a9-435e-b523-175a05647617",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "213c8730-184f-4050-b7fb-ba23b6881fda",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "96d16983-50a9-435e-b523-175a05647617",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "ae9d55b6-fccc-4509-b6a1-9942e4ab899f",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "96d16983-50a9-435e-b523-175a05647617",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "22a6bbda-d9ad-412f-a187-268bdbeb0d30",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "96d16983-50a9-435e-b523-175a05647617",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "fc309b55-8cc2-4108-bb7d-dcdf80c6bd5b",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "34244a8b-7f72-4b27-96b4-c6291ac405cb",
+      "base_price": 390.0,
+      "additional_day_price": 58.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "96aa9c71-52d3-4f6f-9c13-40914becd060",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "34244a8b-7f72-4b27-96b4-c6291ac405cb",
+      "base_price": 520.0,
+      "additional_day_price": 78.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "2ec54160-f0ca-4257-82d2-bd0f53e2dd1f",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "34244a8b-7f72-4b27-96b4-c6291ac405cb",
+      "base_price": 650.0,
+      "additional_day_price": 97.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "a575338e-f3a0-41f8-aa9e-38ef63d29ae5",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "34244a8b-7f72-4b27-96b4-c6291ac405cb",
+      "base_price": 780.0,
+      "additional_day_price": 117.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "c7ab835c-b6d1-4f6e-b7f1-297ef48ec7f1",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "82458068-b5e8-42f4-ab4d-f62f4e8e7e63",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "0883e87f-a338-448f-a3e9-c283188cf011",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "82458068-b5e8-42f4-ab4d-f62f4e8e7e63",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "ca39ed1b-44eb-4881-8332-c57765be67ca",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "82458068-b5e8-42f4-ab4d-f62f4e8e7e63",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "a82508e8-ff06-4887-a2fb-af38f3d583ea",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "82458068-b5e8-42f4-ab4d-f62f4e8e7e63",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "ba920b76-3a4c-4a4f-a34a-6a81c7626345",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "ca2cba7d-8141-4b8c-ad6c-69e8adba2adb",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "5bc9ea05-130f-4942-a2e4-8a2560faafe7",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "ca2cba7d-8141-4b8c-ad6c-69e8adba2adb",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "eac35c65-0278-46f0-8ae7-5c57226cb5ce",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "ca2cba7d-8141-4b8c-ad6c-69e8adba2adb",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "c12d1fed-8db6-4ff0-a5ec-22b8cb00bd64",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "ca2cba7d-8141-4b8c-ad6c-69e8adba2adb",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "93ff3062-09c6-4524-88f3-3198e93cf552",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "2ed4360d-4c96-4ad8-8dee-cd6b2c507724",
+      "base_price": 300.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "5db30426-485a-4f7a-b863-e3b399889015",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "2ed4360d-4c96-4ad8-8dee-cd6b2c507724",
+      "base_price": 400.0,
+      "additional_day_price": 60.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "8fcc9858-c513-489e-8182-265a9e6592b7",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "2ed4360d-4c96-4ad8-8dee-cd6b2c507724",
+      "base_price": 500.0,
+      "additional_day_price": 75.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "a636c027-2979-4b30-893a-ba31cf9caad3",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "2ed4360d-4c96-4ad8-8dee-cd6b2c507724",
+      "base_price": 600.0,
+      "additional_day_price": 90.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "42be5c0f-ae4f-4abc-a11e-db3517a24c2d",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "f4df42a6-9642-4edf-9825-3a31109b7574",
+      "service_area_id": "be34d32b-87ee-4898-b458-dafb475f87be",
+      "base_price": 390.0,
+      "additional_day_price": 58.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "8433a455-21aa-411a-b49a-896a2b6adbf6",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "1ba18d03-7534-4d74-8def-80714484bafb",
+      "service_area_id": "be34d32b-87ee-4898-b458-dafb475f87be",
+      "base_price": 520.0,
+      "additional_day_price": 78.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "28602daf-19ea-4cc1-bac3-2f77d21258b5",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "8524f07b-898c-4f99-858d-35ef18ed4446",
+      "service_area_id": "be34d32b-87ee-4898-b458-dafb475f87be",
+      "base_price": 650.0,
+      "additional_day_price": 97.5,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "76704add-fa4d-43d1-a211-7342bbf2fa86",
+      "company_id": "046f3bdd-66ad-45cf-84cf-2747e297acca",
+      "size_id": "5766a020-474f-4fc3-8358-a11eea1e9cd3",
+      "service_area_id": "be34d32b-87ee-4898-b458-dafb475f87be",
+      "base_price": 780.0,
+      "additional_day_price": 117.0,
+      "weight_overage_price": 50.0,
+      "rental_period_days": 7
+    },
+    {
+      "id": "363b9acb-e3d7-496b-a782-2adb2d23ed60",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "6d3ee53b-b9b9-45a2-9e66-0abc1853b0af",
+      "base_price": 255.0,
+      "additional_day_price": 30.6,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a6da463a-021a-406a-9349-fe95c4f626c3",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "6d3ee53b-b9b9-45a2-9e66-0abc1853b0af",
+      "base_price": 306.0,
+      "additional_day_price": 36.72,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "e4c7ba53-c912-4b4b-b506-75a4059eda9a",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "6d3ee53b-b9b9-45a2-9e66-0abc1853b0af",
+      "base_price": 357.0,
+      "additional_day_price": 42.84,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "1b173eeb-8842-470f-bd64-77d8528c1a99",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "6d3ee53b-b9b9-45a2-9e66-0abc1853b0af",
+      "base_price": 459.0,
+      "additional_day_price": 55.08,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "da9aca9b-80b7-4cea-89d5-0d3561e588ca",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "6d3ee53b-b9b9-45a2-9e66-0abc1853b0af",
+      "base_price": 561.0,
+      "additional_day_price": 67.32,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "ea6b26c8-1095-4e59-bef0-f854f624ce4c",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "c8bc0bab-f478-4893-b245-858b75c23667",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "1ed5a884-1a2d-405e-ac32-e7834c8adb56",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "c8bc0bab-f478-4893-b245-858b75c23667",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "26d07dce-63a4-47cf-91cb-6836623004dd",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "c8bc0bab-f478-4893-b245-858b75c23667",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "25be1e4c-900b-430b-953b-fd9571e2e666",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "c8bc0bab-f478-4893-b245-858b75c23667",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "1df10a9f-545e-4651-a08c-354735ad757e",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "c8bc0bab-f478-4893-b245-858b75c23667",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "55199537-e75e-4f8f-9778-83bae8ae90a5",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "77ee9ccf-5e0c-43c0-a6d9-839ad4623bed",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "9d1aa4a7-8e01-4853-a96b-7c3a0beb09bf",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "77ee9ccf-5e0c-43c0-a6d9-839ad4623bed",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "339c0ede-2cb5-41ec-a9c8-d0a5791f2e12",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "77ee9ccf-5e0c-43c0-a6d9-839ad4623bed",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "265e9b9a-2780-45d1-b585-d0f77fdcfea1",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "77ee9ccf-5e0c-43c0-a6d9-839ad4623bed",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "d76a57be-5529-4995-b2d6-2effcd61cbc2",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "77ee9ccf-5e0c-43c0-a6d9-839ad4623bed",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "51251e7e-a076-4787-8b78-ca226739580b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "6cf5633f-a225-4e46-b242-401a3a7c410c",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a6f2843e-ffd4-48cf-b92b-7289d4453d4e",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "6cf5633f-a225-4e46-b242-401a3a7c410c",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "33e8768a-a302-4585-832e-b07b7ee5e30d",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "6cf5633f-a225-4e46-b242-401a3a7c410c",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "066394ac-a649-45e1-90a5-d849a76221de",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "6cf5633f-a225-4e46-b242-401a3a7c410c",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "7083ec97-9ee1-4525-b529-11c96f7d14aa",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "6cf5633f-a225-4e46-b242-401a3a7c410c",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "1025cc83-91ab-4431-8ea9-a9cd6de772cd",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "644b0782-8420-41f7-adfc-1927a3d0c31f",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "4bd088bc-39bc-4b9c-b85f-2a96be6626a2",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "644b0782-8420-41f7-adfc-1927a3d0c31f",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "be233f42-e8a5-4989-9554-76e5446c4b1c",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "644b0782-8420-41f7-adfc-1927a3d0c31f",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "cc2ee49b-eba8-48b8-a90b-3ba084cef530",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "644b0782-8420-41f7-adfc-1927a3d0c31f",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a897241c-78f3-4a52-82ae-5e9bec4eee02",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "644b0782-8420-41f7-adfc-1927a3d0c31f",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "4ff7f7d5-6ffb-45c1-8eb4-8ae327339b90",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "f0a8fde5-ccd0-4d6b-8a83-3d441e4731fb",
+      "base_price": 255.0,
+      "additional_day_price": 30.6,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "d1a9e3c6-a391-4861-94aa-ef771655e6bc",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "f0a8fde5-ccd0-4d6b-8a83-3d441e4731fb",
+      "base_price": 306.0,
+      "additional_day_price": 36.72,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "45fd5cb2-ec1e-4a88-8f7a-c450e8eae609",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "f0a8fde5-ccd0-4d6b-8a83-3d441e4731fb",
+      "base_price": 357.0,
+      "additional_day_price": 42.84,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "37ae8cd0-7f8e-42d2-966a-5ac3edf27eae",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "f0a8fde5-ccd0-4d6b-8a83-3d441e4731fb",
+      "base_price": 459.0,
+      "additional_day_price": 55.08,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "603422b3-3389-4167-b9dd-3bb2a5c0b716",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "f0a8fde5-ccd0-4d6b-8a83-3d441e4731fb",
+      "base_price": 561.0,
+      "additional_day_price": 67.32,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "06e98c98-411f-4f3c-acd1-c98621e0fc1d",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "f5923508-1bae-4ca9-8852-0a50bb3a6f25",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "70769fc9-3ce7-4904-8346-ad6c895737e0",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "f5923508-1bae-4ca9-8852-0a50bb3a6f25",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "f45d8aaf-6430-4a71-ac75-a4df13157173",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "f5923508-1bae-4ca9-8852-0a50bb3a6f25",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "eeb245d0-dd2b-4b41-a13a-e1baeb2763d1",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "f5923508-1bae-4ca9-8852-0a50bb3a6f25",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "33c28f5a-41a5-412d-85f2-bd795b6c8226",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "f5923508-1bae-4ca9-8852-0a50bb3a6f25",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "0f7f0ba3-dccc-4ffa-a4c6-aec7271b356e",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "5595a7a6-078b-4df1-9d88-e8647ec20b62",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "46c9ee2f-c6ea-4175-86ff-eb042e3f45a1",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "5595a7a6-078b-4df1-9d88-e8647ec20b62",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "528fb4f6-bd5c-48e3-ab71-91d5b4142b0c",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "5595a7a6-078b-4df1-9d88-e8647ec20b62",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a35d856f-e5f4-4564-89a1-0b07e9fb5db9",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "5595a7a6-078b-4df1-9d88-e8647ec20b62",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "120fe702-662c-465a-b97c-5335e0beccb3",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "5595a7a6-078b-4df1-9d88-e8647ec20b62",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "1ca1e74a-772e-449c-be4d-0c4cb97a22da",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "1cb611e5-2af8-41fe-b7c8-08e0b4779e29",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "3620da97-e857-46f4-88c0-27fc83498d2f",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "1cb611e5-2af8-41fe-b7c8-08e0b4779e29",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "f7c559e7-0c01-47c3-9e58-95e7e4cab0b3",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "1cb611e5-2af8-41fe-b7c8-08e0b4779e29",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "71acf3ff-919e-43c5-93ea-5da3ab6b8438",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "1cb611e5-2af8-41fe-b7c8-08e0b4779e29",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "588ad38e-f89f-4ba3-bec2-6bd486770c2d",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "1cb611e5-2af8-41fe-b7c8-08e0b4779e29",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "31cac941-9223-45a0-a357-740e2555754c",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "029968f7-c3a5-473f-a22e-a27d7c50edab",
+      "base_price": 255.0,
+      "additional_day_price": 30.6,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "c7ddcbc7-c1d4-446f-9790-d4fdfb146bda",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "029968f7-c3a5-473f-a22e-a27d7c50edab",
+      "base_price": 306.0,
+      "additional_day_price": 36.72,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "ee914cb4-32e5-4445-a98f-c58030af2d8b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "029968f7-c3a5-473f-a22e-a27d7c50edab",
+      "base_price": 357.0,
+      "additional_day_price": 42.84,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "2250505d-ea5d-4481-90f1-48ea7c9ac32f",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "029968f7-c3a5-473f-a22e-a27d7c50edab",
+      "base_price": 459.0,
+      "additional_day_price": 55.08,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "0ee6c2c2-733d-47b0-8e52-ec655749a14a",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "029968f7-c3a5-473f-a22e-a27d7c50edab",
+      "base_price": 561.0,
+      "additional_day_price": 67.32,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "bbe52b97-8c45-4c48-9dbe-6b5a967aad10",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "538b45e3-0c51-4064-b9b2-7aa2af819ac7",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "03edebd2-af9d-49c0-9d7e-3fe7c2ba5fff",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "538b45e3-0c51-4064-b9b2-7aa2af819ac7",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "bb3bd145-4672-4f57-9705-944345420aff",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "538b45e3-0c51-4064-b9b2-7aa2af819ac7",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a84d5197-0f74-4945-b04e-2f734aaa21df",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "538b45e3-0c51-4064-b9b2-7aa2af819ac7",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "ba71488c-3978-4710-ba28-43956b7615a3",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "538b45e3-0c51-4064-b9b2-7aa2af819ac7",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "1701aa03-97a3-4f0a-b981-775dbc5f0ac0",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "ead20ab5-53e4-42ac-8558-d4cf7a6cebbb",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "16b8d41b-022b-4ca4-9950-859b99bb7a7f",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "ead20ab5-53e4-42ac-8558-d4cf7a6cebbb",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "3692b1a9-752e-4f23-99b5-c604a12830c6",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "ead20ab5-53e4-42ac-8558-d4cf7a6cebbb",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "bd0e612a-2fc8-4b34-8c51-feb35d485c10",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "ead20ab5-53e4-42ac-8558-d4cf7a6cebbb",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "140cfa7b-f59d-4638-a754-b40d4dab65bd",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "ead20ab5-53e4-42ac-8558-d4cf7a6cebbb",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "6f99b3fd-1b61-4e9e-8de4-94b513ac398b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "13c46d7c-bba9-40ae-9619-e1805841bf83",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "4a0aa5a0-bc9b-4ce6-8683-1528cf43d5aa",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "13c46d7c-bba9-40ae-9619-e1805841bf83",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a0e951e2-2f4a-493e-908d-589b6844aa2d",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "13c46d7c-bba9-40ae-9619-e1805841bf83",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "71e2a190-d6a5-42d1-a6c3-bf9a9759c3b5",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "13c46d7c-bba9-40ae-9619-e1805841bf83",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "6f03fc5e-a2cf-4f2e-9045-f67c0de73302",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "13c46d7c-bba9-40ae-9619-e1805841bf83",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "8c8a1261-cd27-4373-b2a8-6472cedce0c4",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "1580b4cd-6862-48d9-b784-57f468aa9997",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "42b8f07a-bb0a-4867-9530-bfaae88575c4",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "1580b4cd-6862-48d9-b784-57f468aa9997",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "0c762771-775f-49f6-8025-3296f000ce60",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "1580b4cd-6862-48d9-b784-57f468aa9997",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "dcebf4f2-aeaa-403e-ac1f-ecfc93a88456",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "1580b4cd-6862-48d9-b784-57f468aa9997",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "12856d71-527f-492e-b043-878cdf890094",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "1580b4cd-6862-48d9-b784-57f468aa9997",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "a53a7845-671a-430b-8ec0-880d7bcbc153",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "97715e17-f755-490f-b807-3ff48bdccd4f",
+      "base_price": 255.0,
+      "additional_day_price": 30.6,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "ccf5a935-d016-47b3-a6fc-4c48df37ab77",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "97715e17-f755-490f-b807-3ff48bdccd4f",
+      "base_price": 306.0,
+      "additional_day_price": 36.72,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "865f2041-a627-4339-8c77-642ccdbff2bd",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "97715e17-f755-490f-b807-3ff48bdccd4f",
+      "base_price": 357.0,
+      "additional_day_price": 42.84,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "fb1b1d87-2ea8-444b-96bc-917639f19184",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "97715e17-f755-490f-b807-3ff48bdccd4f",
+      "base_price": 459.0,
+      "additional_day_price": 55.08,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "4017b6cb-f9d9-4a65-b314-2a5f17106cbf",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "97715e17-f755-490f-b807-3ff48bdccd4f",
+      "base_price": 561.0,
+      "additional_day_price": 67.32,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "d6b8340d-8ed4-4801-ae1d-a2e3447853d8",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "21d62259-2a0b-4d60-9569-77946244baa4",
+      "base_price": 375.0,
+      "additional_day_price": 45.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "90cbddc9-2cab-45d6-b460-bdee75b9809b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "21d62259-2a0b-4d60-9569-77946244baa4",
+      "base_price": 450.0,
+      "additional_day_price": 54.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "c779b3a5-335d-4646-9052-a8c7cf069901",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "21d62259-2a0b-4d60-9569-77946244baa4",
+      "base_price": 525.0,
+      "additional_day_price": 63.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "f8a24dc7-2cc4-41f9-9a31-3956001623f6",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "21d62259-2a0b-4d60-9569-77946244baa4",
+      "base_price": 675.0,
+      "additional_day_price": 81.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "148186a6-f051-4b4c-ac78-ea8fed9eba13",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "21d62259-2a0b-4d60-9569-77946244baa4",
+      "base_price": 825.0,
+      "additional_day_price": 99.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "c495fe8d-0367-4185-b441-673f147280a0",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "f00292d5-2f8d-40c8-826f-85b5e8f4fcf7",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "7b62696e-71b7-43e7-baa3-c2b0ce406176",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "f00292d5-2f8d-40c8-826f-85b5e8f4fcf7",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "7b790034-c13e-4599-98d9-d7e5f68a0d01",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "f00292d5-2f8d-40c8-826f-85b5e8f4fcf7",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "31a6c634-3c10-43d7-9d42-0429c212b4c5",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "f00292d5-2f8d-40c8-826f-85b5e8f4fcf7",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "c095e970-4e12-4c52-bed8-0975e23b898d",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "f00292d5-2f8d-40c8-826f-85b5e8f4fcf7",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "c16b35b3-3cf8-4e74-9d1d-e627d82ead11",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "4530e028-1410-46e9-a2e3-ae82f913a81d",
+      "base_price": 255.0,
+      "additional_day_price": 30.6,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "0be5e3aa-1425-4ccb-b8a4-fb6465fe69ef",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "4530e028-1410-46e9-a2e3-ae82f913a81d",
+      "base_price": 306.0,
+      "additional_day_price": 36.72,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "0bcc71b7-48ed-45d0-a3bb-a5586887495e",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "4530e028-1410-46e9-a2e3-ae82f913a81d",
+      "base_price": 357.0,
+      "additional_day_price": 42.84,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "6951e256-0a4f-44dd-9393-918d8d1a4c44",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "4530e028-1410-46e9-a2e3-ae82f913a81d",
+      "base_price": 459.0,
+      "additional_day_price": 55.08,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "051cbd2e-ac9c-4c45-afe2-64dc9480542b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "4530e028-1410-46e9-a2e3-ae82f913a81d",
+      "base_price": 561.0,
+      "additional_day_price": 67.32,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "33ef8388-d94e-4555-9ae4-4826ab90380b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "c46d4509-c655-44af-95d8-da506b39ba08",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "ef21183b-d007-4c92-be82-b1f62ec3618f",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "c46d4509-c655-44af-95d8-da506b39ba08",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "ab259abb-0a9b-4e01-a8d1-7013d34ce94b",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "c46d4509-c655-44af-95d8-da506b39ba08",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "663ff79a-5eca-4e44-882b-a1f9ccf2472c",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "c46d4509-c655-44af-95d8-da506b39ba08",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "7652c022-c6be-4577-a6f2-969cefffd3ac",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "c46d4509-c655-44af-95d8-da506b39ba08",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "b38df567-b1e6-447e-9b63-4bae53154d04",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "54fb1666-b68c-4786-8a92-ac0a40315c08",
+      "service_area_id": "1a56e1c4-b6c6-4603-b3d5-54b8c7fe3a85",
+      "base_price": 300.0,
+      "additional_day_price": 36.0,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "64173020-8cf0-4483-9741-e81bebbdfc75",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "3d35b6b1-1496-4446-8b39-ee19a67409b3",
+      "service_area_id": "1a56e1c4-b6c6-4603-b3d5-54b8c7fe3a85",
+      "base_price": 360.0,
+      "additional_day_price": 43.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "4d9d2a7e-774f-4e3e-ab52-df27e27f4542",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "581e1487-3f03-455f-b63d-5bfa7438e5b3",
+      "service_area_id": "1a56e1c4-b6c6-4603-b3d5-54b8c7fe3a85",
+      "base_price": 420.0,
+      "additional_day_price": 50.4,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "dd3b6c98-29fe-44cb-8e51-0adbb599d025",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "7c84672b-8ef9-4953-be53-c6fcfcb87e62",
+      "service_area_id": "1a56e1c4-b6c6-4603-b3d5-54b8c7fe3a85",
+      "base_price": 540.0,
+      "additional_day_price": 64.8,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    },
+    {
+      "id": "fb853cdd-72c3-43da-9ac3-20a7658dcd1c",
+      "company_id": "97f46d3f-4b38-467b-960b-0ac61443db23",
+      "size_id": "163dd4cc-3a00-45b3-a8b8-9d198502426b",
+      "service_area_id": "1a56e1c4-b6c6-4603-b3d5-54b8c7fe3a85",
+      "base_price": 660.0,
+      "additional_day_price": 79.2,
+      "weight_overage_price": 65.0,
+      "rental_period_days": 10
+    }
+  ],
+  "last_updated": "2025-04-20 12:38:13.060613"
+}
