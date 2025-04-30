@@ -9,7 +9,9 @@ from typing import List, Dict, Any, Optional
 from .models.dumpster_data import ScrapedData, DumpsterCompany, ServiceArea, DumpsterSize, DumpsterPrice
 from .scrapers.waste_management_scraper import WasteManagementScraper
 from .scrapers.budget_dumpster_scraper import BudgetDumpsterScraper
+from .scrapers.liberty_dumpsters_scraper import LibertyDumpstersScraper
 from .utils.data_storage import DataStorage
+from .utils.scheduler import ScraperScheduler
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -29,8 +31,10 @@ app.add_middleware(
 )
 
 data_storage = DataStorage(data_dir="data")
+scheduler = ScraperScheduler(data_storage)
 
 os.makedirs("data", exist_ok=True)
+os.makedirs("logs", exist_ok=True)
 
 @app.get("/healthz")
 async def healthz():
@@ -48,7 +52,8 @@ async def run_scrapers():
     try:
         scrapers = [
             WasteManagementScraper(),
-            BudgetDumpsterScraper()
+            BudgetDumpsterScraper(),
+            LibertyDumpstersScraper()
         ]
         
         all_companies = []
@@ -131,8 +136,11 @@ async def get_all_cities():
 
 @app.on_event("startup")
 async def startup_event():
-    """Run on startup to ensure we have some data"""
+    """Run on startup to ensure we have some data and start scheduler"""
     data = data_storage.load_data()
     if not data.companies:
         logger.info("No data found. Running initial scrape...")
         await run_scrapers()
+    
+    asyncio.create_task(scheduler.start_weekly_schedule())
+    logger.info("Weekly scraper schedule started")
