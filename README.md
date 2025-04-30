@@ -1,6 +1,6 @@
 # Dumpster Rental SEO Generator
 
-A full-stack application for programmatic SEO targeting dumpster rental services. This application scrapes data from multiple national dumpster rental websites, stores the data in a structured JSON format, and generates SEO-optimized pages for each city or service area.
+A full-stack application for programmatic SEO targeting dumpster rental services. This application scrapes data from multiple national dumpster rental websites, stores the data in a structured JSON format, and generates SEO-optimized pages for each city or service area. The application helps improve online visibility for dumpster rental businesses.
 
 ## Features
 
