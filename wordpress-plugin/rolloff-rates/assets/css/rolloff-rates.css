@@ -1,0 +1,287 @@
+/**
+ * RollOff Rates Plugin Styles
+ */
+
+/* General Styles */
+.rolloff-rates-table-container {
+    margin-bottom: 2em;
+    overflow-x: auto;
+}
+
+.rolloff-rates-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 0.9em;
+}
+
+.rolloff-rates-table th,
+.rolloff-rates-table td {
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.rolloff-rates-table th {
+    background-color: #f8fafc;
+    font-weight: bold;
+    color: #1e293b;
+    border-bottom: 2px solid #cbd5e1;
+}
+
+.rolloff-rates-table tr:hover {
+    background-color: #f1f5f9;
+}
+
+.rolloff-rates-cta-button {
+    display: inline-block;
+    padding: 8px 16px;
+    background-color: #3b82f6;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-weight: 500;
+    transition: background-color 0.2s;
+}
+
+.rolloff-rates-cta-button:hover {
+    background-color: #2563eb;
+    color: white;
+    text-decoration: none;
+}
+
+/* Companies List Styles */
+.rolloff-rates-companies {
+    margin: 2em 0;
+}
+
+.rolloff-rates-companies-list .rolloff-rates-company {
+    margin-bottom: 2em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.rolloff-rates-companies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2em;
+}
+
+.rolloff-rates-companies-grid .rolloff-rates-company {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.5em;
+    transition: box-shadow 0.2s;
+}
+
+.rolloff-rates-companies-grid .rolloff-rates-company:hover {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.rolloff-rates-company-logo {
+    margin-bottom: 1em;
+    max-width: 200px;
+}
+
+.rolloff-rates-company-logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.rolloff-rates-company-name {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    font-size: 1.25em;
+    color: #1e293b;
+}
+
+.rolloff-rates-company-description {
+    margin-bottom: 1em;
+    color: #64748b;
+}
+
+.rolloff-rates-company-phone,
+.rolloff-rates-company-website {
+    margin-bottom: 0.5em;
+}
+
+.rolloff-rates-company-phone a,
+.rolloff-rates-company-website a {
+    color: #3b82f6;
+    text-decoration: none;
+}
+
+.rolloff-rates-company-phone a:hover,
+.rolloff-rates-company-website a:hover {
+    text-decoration: underline;
+}
+
+/* Form Styles */
+.rolloff-rates-form-container {
+    margin: 2em 0;
+    padding: 2em;
+    background-color: #f8fafc;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+}
+
+.rolloff-rates-form-title {
+    margin-top: 0;
+    margin-bottom: 1em;
+    color: #1e293b;
+}
+
+.rolloff-rates-form-field {
+    margin-bottom: 1.5em;
+}
+
+.rolloff-rates-form-field label {
+    display: block;
+    margin-bottom: 0.5em;
+    font-weight: 500;
+    color: #1e293b;
+}
+
+.rolloff-rates-form-field .required {
+    color: #ef4444;
+}
+
+.rolloff-rates-form-field input[type="text"],
+.rolloff-rates-form-field input[type="email"],
+.rolloff-rates-form-field input[type="tel"],
+.rolloff-rates-form-field select,
+.rolloff-rates-form-field textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    font-size: 1em;
+}
+
+.rolloff-rates-form-field input[type="text"]:focus,
+.rolloff-rates-form-field input[type="email"]:focus,
+.rolloff-rates-form-field input[type="tel"]:focus,
+.rolloff-rates-form-field select:focus,
+.rolloff-rates-form-field textarea:focus {
+    outline: none;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.1);
+}
+
+.rolloff-rates-submit-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.rolloff-rates-submit-button:hover {
+    background-color: #2563eb;
+}
+
+.rolloff-rates-form-success {
+    padding: 1em;
+    background-color: #ecfdf5;
+    border: 1px solid #10b981;
+    border-radius: 4px;
+    color: #047857;
+}
+
+/* City Page Styles */
+.rolloff-rates-city-page {
+    margin: 2em 0;
+}
+
+.rolloff-rates-intro {
+    margin-bottom: 2em;
+    font-size: 1.1em;
+    color: #4b5563;
+}
+
+.rolloff-rates-sizes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2em;
+    margin-bottom: 2em;
+}
+
+.rolloff-rates-size-card {
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.5em;
+    text-align: center;
+    transition: box-shadow 0.2s;
+}
+
+.rolloff-rates-size-card:hover {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+.rolloff-rates-size-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    color: #1e293b;
+}
+
+.rolloff-rates-size-dimensions {
+    font-weight: 500;
+    color: #64748b;
+    margin-bottom: 1em;
+}
+
+.rolloff-rates-size-description {
+    color: #4b5563;
+    margin-bottom: 1em;
+}
+
+.rolloff-rates-size-price {
+    font-weight: bold;
+    color: #3b82f6;
+    font-size: 1.2em;
+    margin-bottom: 1em;
+}
+
+.rolloff-rates-city-content {
+    margin: 2em 0;
+}
+
+.rolloff-rates-faqs {
+    margin: 2em 0;
+}
+
+.rolloff-rates-faq {
+    margin-bottom: 1.5em;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.rolloff-rates-faq:last-child {
+    border-bottom: none;
+}
+
+.rolloff-rates-faq h4 {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+    color: #1e293b;
+}
+
+.rolloff-rates-faq p {
+    margin-bottom: 0;
+    color: #4b5563;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    .rolloff-rates-companies-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .rolloff-rates-sizes {
+        grid-template-columns: 1fr;
+    }
+}
