@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { Helmet } from 'react-helmet';
 import { CitySelector } from './components/CitySelector';
 import { CityPage } from './components/CityPage';
+import { DumpsterCards } from './components/DumpsterCards';
 import { triggerScrape } from './api';
 import './App.css';
 
@@ -103,6 +104,7 @@ function App() {
               </p>
             </div>
             <CitySelector onCitySelect={handleCitySelect} />
+            <DumpsterCards />
           </>
         ) : (
           <CityPage city={selectedCity.city} state={selectedCity.state} />
