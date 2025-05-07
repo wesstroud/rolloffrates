@@ -1,0 +1,4 @@
+playwright>=1.40.0
+pandas>=2.1.0
+asyncio>=3.4.3
+random2>=1.0.1
