@@ -1,0 +1,36 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Debug files
+debug_*.html
+debug_*.png
+error_*.png
+results_*.html
+results_*.png
+dumpsters_com_*.html
+dumpsters_com_*.png
+
+# Screenshots directory
+screenshots/
+
+# Test files
+sample_addresses.csv
+test_results.csv
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
